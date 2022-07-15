@@ -5,4 +5,4 @@ Commit desde git a Github
 
 Commit desde Github Desktop con Visual Studio Code
 
-Commit desde VSC con Source control 
+Commit desde Visual Studio Code con Source control
